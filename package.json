@@ -1,5 +1,5 @@
 {
-  "name": "Test React",
+  "name": "test-react",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
