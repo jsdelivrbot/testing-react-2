@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Testing React
+
+Learning to set up Testing by simple set up of a comment box.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
